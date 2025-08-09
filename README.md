@@ -8,7 +8,7 @@ It shows how a salon's website should look — with sections like services, abou
 
 ## Why I made this
 
-I wanted to practically implement my HTML,CSS to try building a salon-style layout from scratch, without using any pre-made templates. It helped me improve my web design and styling skills using Tailwind.
+Practical implementation to test what I learned from my Modern Web Development course. I tried building a salon-style layout from scratch, without using any pre-made templates. It helped me improve my web design and styling skills using Tailwind.
 
 ## Website Link
 
